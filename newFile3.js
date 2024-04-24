@@ -1,2 +1,1 @@
-yo
-conflict 222
+conflict 1
