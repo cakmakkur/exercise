@@ -207,7 +207,7 @@ type Metric = 'cm' | 'inch'
 
 // Wen we call the function that is set to accept a string as argument, we cannot pass null or undefined.
 // this is "strictNullChecks": true in .json file. Can be set to false but it is not recommended
-// instead include the null and  undefined into the type definition
+// instead include the null and undefined into the type definition
 // THESE ARE CALLED NULLABLE TYPES
 
 function greet(name: string | null | undefined) {
