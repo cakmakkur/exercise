@@ -1,9 +1,3 @@
-console.log('yo')
-const now2 = 'version 6'
-const now2 = 'version 6'
-const now2 = 'version 6'
-const now2 = 'version 6'
+console.log('feature branch')
 
-//commit from the git side
-
-//continuing
+console.log('still working on it')˚
